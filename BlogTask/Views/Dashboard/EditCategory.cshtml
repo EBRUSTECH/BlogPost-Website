@@ -1,0 +1,39 @@
+﻿@model BlogTask.Models.ViewModels.AddCategoryViewModel
+@{
+    ViewData["Title"] = "edit-blog-category";
+}
+
+<div class="content-wrapper pb-0">
+    <div class="page-header flex-wrap">
+        <h5 class="mb-0">
+            Edit Blog Category
+        </h5>
+    </div>
+
+    <div class="row">
+        <div class="col-md-10 grid-margin stretch-card mx-auto" style="margin-bottom:250px; margin-top:50px;">
+            <div class="card">
+                <div class="card-body">
+                    @if (Model != null)
+                    {
+                        <form method="post" asp-controller="Dashboard" asp-action="EditCategory" class="forms-sample">
+                            <input type="hidden" asp-for="CategoryId" />
+
+                            <div class="form-group">
+                                <label>Name</label>
+                                <input type="text" class="form-control" asp-for="Name" placeholder="Enter category name" />
+                                <span class="text-danger" asp-validation-for="Name"></span>
+                            </div>
+
+                            <button type="submit" class="btn btn-primary mr-2">Submit</button>
+                        </form>
+                    }
+                    else
+                    {
+                        <p>Category not found!</p>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

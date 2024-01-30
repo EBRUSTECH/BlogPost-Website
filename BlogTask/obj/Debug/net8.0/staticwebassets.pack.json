@@ -1,0 +1,3229 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlogTask.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlogTask.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\ajax\\author-single.html",
+      "PackagePath": "staticwebassets\\ajax\\author-single.html"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\ajax\\category1.html",
+      "PackagePath": "staticwebassets\\ajax\\category1.html"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\ajax\\category2.html",
+      "PackagePath": "staticwebassets\\ajax\\category2.html"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\ajax\\category3.html",
+      "PackagePath": "staticwebassets\\ajax\\category3.html"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\ajax\\category4.html",
+      "PackagePath": "staticwebassets\\ajax\\category4.html"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\ajax\\images\\all\\13.html",
+      "PackagePath": "staticwebassets\\ajax\\images\\all\\13.html"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\ajax\\images\\all\\15.html",
+      "PackagePath": "staticwebassets\\ajax\\images\\all\\15.html"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\ajax\\images\\all\\17.html",
+      "PackagePath": "staticwebassets\\ajax\\images\\all\\17.html"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\ajax\\images\\all\\2.html",
+      "PackagePath": "staticwebassets\\ajax\\images\\all\\2.html"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\ajax\\images\\all\\23.html",
+      "PackagePath": "staticwebassets\\ajax\\images\\all\\23.html"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\ajax\\images\\all\\25.html",
+      "PackagePath": "staticwebassets\\ajax\\images\\all\\25.html"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\ajax\\images\\all\\26.html",
+      "PackagePath": "staticwebassets\\ajax\\images\\all\\26.html"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\ajax\\images\\all\\27.html",
+      "PackagePath": "staticwebassets\\ajax\\images\\all\\27.html"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\ajax\\images\\all\\28.html",
+      "PackagePath": "staticwebassets\\ajax\\images\\all\\28.html"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\ajax\\images\\all\\29.html",
+      "PackagePath": "staticwebassets\\ajax\\images\\all\\29.html"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\ajax\\images\\all\\30.html",
+      "PackagePath": "staticwebassets\\ajax\\images\\all\\30.html"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\ajax\\images\\all\\31.html",
+      "PackagePath": "staticwebassets\\ajax\\images\\all\\31.html"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\ajax\\images\\all\\34.html",
+      "PackagePath": "staticwebassets\\ajax\\images\\all\\34.html"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\ajax\\images\\all\\35.html",
+      "PackagePath": "staticwebassets\\ajax\\images\\all\\35.html"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\ajax\\images\\all\\37.html",
+      "PackagePath": "staticwebassets\\ajax\\images\\all\\37.html"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\ajax\\images\\all\\38.html",
+      "PackagePath": "staticwebassets\\ajax\\images\\all\\38.html"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\ajax\\images\\avatar\\1.html",
+      "PackagePath": "staticwebassets\\ajax\\images\\avatar\\1.html"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\ajax\\images\\avatar\\2.html",
+      "PackagePath": "staticwebassets\\ajax\\images\\avatar\\2.html"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\ajax\\images\\avatar\\3.html",
+      "PackagePath": "staticwebassets\\ajax\\images\\avatar\\3.html"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\ajax\\images\\avatar\\4.html",
+      "PackagePath": "staticwebassets\\ajax\\images\\avatar\\4.html"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\ajax\\post-single.html",
+      "PackagePath": "staticwebassets\\ajax\\post-single.html"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\fonts\\rubik\\Rubik-Bold.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\rubik\\Rubik-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\fonts\\rubik\\Rubik-Bold.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\rubik\\Rubik-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\fonts\\rubik\\Rubik-Bold.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\rubik\\Rubik-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\fonts\\rubik\\Rubik-Bold.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\rubik\\Rubik-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\fonts\\rubik\\Rubik-Light.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\rubik\\Rubik-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\fonts\\rubik\\Rubik-Light.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\rubik\\Rubik-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\fonts\\rubik\\Rubik-Light.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\rubik\\Rubik-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\fonts\\rubik\\Rubik-Light.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\rubik\\Rubik-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\fonts\\rubik\\Rubik-Medium.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\rubik\\Rubik-Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\fonts\\rubik\\Rubik-Medium.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\rubik\\Rubik-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\fonts\\rubik\\Rubik-Medium.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\rubik\\Rubik-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\fonts\\rubik\\Rubik-Medium.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\rubik\\Rubik-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\fonts\\rubik\\Rubik-Regular.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\rubik\\Rubik-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\fonts\\rubik\\Rubik-Regular.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\rubik\\Rubik-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\fonts\\rubik\\Rubik-Regular.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\rubik\\Rubik-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\fonts\\rubik\\Rubik-Regular.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\rubik\\Rubik-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\images\\browser-logo\\chrome-logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\browser-logo\\chrome-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\images\\browser-logo\\explorer-logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\browser-logo\\explorer-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\images\\browser-logo\\firefox-logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\browser-logo\\firefox-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\images\\browser-logo\\opera-logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\browser-logo\\opera-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\images\\browser-logo\\safari-logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\browser-logo\\safari-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\images\\dashboard\\Group 4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\dashboard\\Group 4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\images\\dashboard\\img_1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\dashboard\\img_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\images\\dashboard\\img_2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\dashboard\\img_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\images\\dashboard\\img_3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\dashboard\\img_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\images\\dashboard\\img_4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\dashboard\\img_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\images\\dashboard\\img_5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\dashboard\\img_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\images\\faces-clipart\\pic-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\faces-clipart\\pic-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\images\\faces-clipart\\pic-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\faces-clipart\\pic-2.png"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\images\\faces-clipart\\pic-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\faces-clipart\\pic-3.png"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\images\\faces-clipart\\pic-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\faces-clipart\\pic-4.png"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\js\\chart.js",
+      "PackagePath": "staticwebassets\\assets\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\assets\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\assets\\js\\file-upload.js"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\assets\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\js\\misc.js",
+      "PackagePath": "staticwebassets\\assets\\js\\misc.js"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\assets\\js\\off-canvas.js"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\js\\select2.js",
+      "PackagePath": "staticwebassets\\assets\\js\\select2.js"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\js\\typeahead.js",
+      "PackagePath": "staticwebassets\\assets\\js\\typeahead.js"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\bootstrap-datepicker\\bootstrap-datepicker.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\bootstrap-datepicker\\bootstrap-datepicker.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\bootstrap-datepicker\\bootstrap-datepicker.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\bootstrap-datepicker\\bootstrap-datepicker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\css\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\css\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\css\\flag-icon.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\css\\flag-icon.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ad.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ad.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ae.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ae.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\af.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\af.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ag.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ag.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ai.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ai.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\al.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\al.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\am.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\am.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ao.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ao.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\aq.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\aq.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ar.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ar.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\as.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\as.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\at.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\at.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\au.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\au.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\aw.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\aw.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ax.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ax.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\az.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\az.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ba.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ba.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\bb.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\bb.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\bd.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\bd.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\be.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\be.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\bf.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\bf.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\bg.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\bg.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\bh.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\bh.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\bi.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\bi.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\bj.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\bj.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\bl.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\bl.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\bm.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\bm.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\bn.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\bn.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\bo.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\bo.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\bq.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\bq.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\br.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\br.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\bs.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\bs.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\bt.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\bt.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\bv.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\bv.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\bw.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\bw.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\by.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\by.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\bz.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\bz.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ca.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ca.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\cc.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\cc.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\cd.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\cd.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\cf.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\cf.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\cg.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\cg.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ch.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ch.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ci.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ci.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ck.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ck.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\cl.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\cl.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\cm.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\cm.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\cn.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\cn.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\co.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\co.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\cr.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\cr.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\cu.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\cu.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\cv.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\cv.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\cw.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\cw.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\cx.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\cx.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\cy.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\cy.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\cz.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\cz.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\de.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\de.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\dj.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\dj.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\dk.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\dk.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\dm.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\dm.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\do.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\do.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\dz.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\dz.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ec.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ec.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ee.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ee.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\eg.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\eg.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\eh.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\eh.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\er.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\er.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\es-ca.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\es-ca.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\es.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\es.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\et.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\et.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\eu.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\eu.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\fi.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\fi.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\fj.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\fj.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\fk.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\fk.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\fm.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\fm.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\fo.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\fo.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\fr.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\fr.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ga.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ga.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\gb-eng.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\gb-eng.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\gb-nir.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\gb-nir.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\gb-sct.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\gb-sct.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\gb-wls.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\gb-wls.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\gb.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\gb.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\gd.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\gd.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ge.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ge.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\gf.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\gf.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\gg.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\gg.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\gh.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\gh.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\gi.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\gi.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\gl.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\gl.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\gm.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\gm.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\gn.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\gn.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\gp.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\gp.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\gq.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\gq.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\gr.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\gr.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\gs.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\gs.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\gt.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\gt.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\gu.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\gu.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\gw.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\gw.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\gy.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\gy.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\hk.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\hk.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\hm.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\hm.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\hn.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\hn.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\hr.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\hr.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ht.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ht.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\hu.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\hu.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\id.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\id.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ie.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ie.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\il.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\il.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\im.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\im.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\in.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\in.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\io.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\io.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\iq.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\iq.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ir.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ir.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\is.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\is.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\it.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\it.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\je.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\je.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\jm.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\jm.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\jo.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\jo.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\jp.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\jp.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ke.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ke.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\kg.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\kg.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\kh.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\kh.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ki.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ki.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\km.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\km.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\kn.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\kn.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\kp.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\kp.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\kr.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\kr.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\kw.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\kw.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ky.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ky.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\kz.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\kz.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\la.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\la.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\lb.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\lb.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\lc.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\lc.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\li.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\li.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\lk.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\lk.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\lr.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\lr.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ls.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ls.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\lt.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\lt.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\lu.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\lu.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\lv.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\lv.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ly.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ly.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ma.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ma.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\mc.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\mc.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\md.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\md.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\me.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\me.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\mf.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\mf.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\mg.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\mg.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\mh.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\mh.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\mk.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\mk.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ml.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ml.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\mm.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\mm.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\mn.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\mn.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\mo.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\mo.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\mp.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\mp.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\mq.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\mq.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\mr.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\mr.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ms.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ms.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\mt.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\mt.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\mu.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\mu.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\mv.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\mv.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\mw.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\mw.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\mx.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\mx.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\my.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\my.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\mz.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\mz.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\na.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\na.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\nc.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\nc.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ne.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ne.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\nf.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\nf.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ng.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ng.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ni.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ni.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\nl.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\nl.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\no.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\no.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\np.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\np.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\nr.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\nr.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\nu.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\nu.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\nz.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\nz.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\om.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\om.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\pa.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\pa.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\pe.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\pe.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\pf.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\pf.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\pg.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\pg.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ph.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ph.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\pk.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\pk.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\pl.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\pl.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\pm.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\pm.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\pn.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\pn.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\pr.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\pr.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ps.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ps.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\pt.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\pt.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\pw.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\pw.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\py.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\py.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\qa.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\qa.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\re.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\re.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ro.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ro.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\rs.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\rs.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ru.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ru.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\rw.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\rw.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\sa.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\sa.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\sb.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\sb.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\sc.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\sc.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\sd.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\sd.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\se.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\se.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\sg.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\sg.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\sh.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\sh.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\si.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\si.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\sj.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\sj.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\sk.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\sk.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\sl.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\sl.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\sm.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\sm.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\sn.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\sn.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\so.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\so.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\sr.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\sr.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ss.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ss.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\st.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\st.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\sv.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\sv.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\sx.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\sx.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\sy.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\sy.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\sz.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\sz.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\tc.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\tc.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\td.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\td.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\tf.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\tf.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\tg.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\tg.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\th.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\th.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\tj.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\tj.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\tk.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\tk.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\tl.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\tl.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\tm.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\tm.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\tn.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\tn.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\to.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\to.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\tr.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\tr.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\tt.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\tt.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\tv.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\tv.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\tw.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\tw.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\tz.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\tz.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ua.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ua.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ug.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ug.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\um.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\um.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\un.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\un.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\us.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\us.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\uy.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\uy.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\uz.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\uz.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\va.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\va.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\vc.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\vc.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ve.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ve.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\vg.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\vg.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\vi.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\vi.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\vn.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\vn.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\vu.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\vu.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\wf.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\wf.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ws.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ws.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\xk.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\xk.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ye.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\ye.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\yt.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\yt.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\za.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\za.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\zm.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\zm.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\1x1\\zw.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\1x1\\zw.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ad.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ad.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ae.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ae.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\af.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\af.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ag.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ag.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ai.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ai.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\al.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\al.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\am.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\am.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ao.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ao.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\aq.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\aq.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ar.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ar.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\as.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\as.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\at.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\at.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\au.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\au.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\aw.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\aw.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ax.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ax.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\az.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\az.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ba.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ba.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\bb.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\bb.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\bd.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\bd.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\be.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\be.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\bf.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\bf.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\bg.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\bg.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\bh.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\bh.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\bi.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\bi.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\bj.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\bj.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\bl.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\bl.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\bm.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\bm.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\bn.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\bn.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\bo.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\bo.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\bq.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\bq.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\br.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\br.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\bs.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\bs.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\bt.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\bt.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\bv.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\bv.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\bw.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\bw.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\by.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\by.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\bz.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\bz.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ca.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ca.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\cc.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\cc.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\cd.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\cd.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\cf.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\cf.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\cg.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\cg.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ch.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ch.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ci.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ci.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ck.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ck.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\cl.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\cl.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\cm.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\cm.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\cn.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\cn.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\co.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\co.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\cr.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\cr.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\cu.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\cu.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\cv.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\cv.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\cw.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\cw.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\cx.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\cx.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\cy.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\cy.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\cz.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\cz.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\de.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\de.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\dj.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\dj.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\dk.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\dk.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\dm.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\dm.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\do.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\do.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\dz.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\dz.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ec.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ec.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ee.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ee.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\eg.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\eg.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\eh.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\eh.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\er.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\er.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\es-ca.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\es-ca.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\es.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\es.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\et.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\et.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\eu.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\eu.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\fi.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\fi.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\fj.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\fj.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\fk.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\fk.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\fm.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\fm.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\fo.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\fo.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\fr.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\fr.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ga.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ga.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\gb-eng.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\gb-eng.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\gb-nir.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\gb-nir.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\gb-sct.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\gb-sct.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\gb-wls.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\gb-wls.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\gb.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\gb.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\gd.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\gd.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ge.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ge.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\gf.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\gf.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\gg.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\gg.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\gh.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\gh.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\gi.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\gi.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\gl.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\gl.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\gm.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\gm.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\gn.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\gn.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\gp.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\gp.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\gq.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\gq.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\gr.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\gr.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\gs.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\gs.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\gt.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\gt.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\gu.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\gu.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\gw.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\gw.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\gy.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\gy.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\hk.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\hk.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\hm.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\hm.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\hn.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\hn.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\hr.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\hr.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ht.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ht.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\hu.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\hu.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\id.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\id.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ie.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ie.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\il.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\il.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\im.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\im.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\in.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\in.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\io.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\io.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\iq.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\iq.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ir.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ir.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\is.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\is.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\it.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\it.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\je.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\je.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\jm.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\jm.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\jo.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\jo.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\jp.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\jp.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ke.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ke.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\kg.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\kg.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\kh.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\kh.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ki.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ki.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\km.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\km.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\kn.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\kn.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\kp.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\kp.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\kr.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\kr.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\kw.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\kw.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ky.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ky.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\kz.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\kz.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\la.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\la.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\lb.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\lb.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\lc.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\lc.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\li.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\li.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\lk.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\lk.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\lr.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\lr.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ls.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ls.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\lt.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\lt.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\lu.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\lu.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\lv.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\lv.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ly.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ly.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ma.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ma.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\mc.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\mc.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\md.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\md.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\me.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\me.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\mf.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\mf.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\mg.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\mg.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\mh.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\mh.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\mk.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\mk.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ml.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ml.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\mm.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\mm.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\mn.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\mn.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\mo.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\mo.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\mp.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\mp.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\mq.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\mq.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\mr.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\mr.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ms.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ms.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\mt.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\mt.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\mu.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\mu.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\mv.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\mv.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\mw.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\mw.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\mx.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\mx.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\my.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\my.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\mz.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\mz.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\na.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\na.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\nc.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\nc.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ne.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ne.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\nf.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\nf.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ng.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ng.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ni.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ni.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\nl.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\nl.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\no.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\no.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\np.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\np.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\nr.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\nr.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\nu.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\nu.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\nz.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\nz.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\om.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\om.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\pa.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\pa.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\pe.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\pe.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\pf.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\pf.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\pg.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\pg.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ph.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ph.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\pk.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\pk.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\pl.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\pl.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\pm.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\pm.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\pn.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\pn.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\pr.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\pr.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ps.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ps.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\pt.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\pt.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\pw.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\pw.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\py.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\py.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\qa.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\qa.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\re.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\re.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ro.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ro.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\rs.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\rs.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ru.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ru.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\rw.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\rw.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\sa.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\sa.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\sb.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\sb.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\sc.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\sc.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\sd.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\sd.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\se.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\se.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\sg.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\sg.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\sh.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\sh.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\si.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\si.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\sj.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\sj.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\sk.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\sk.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\sl.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\sl.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\sm.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\sm.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\sn.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\sn.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\so.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\so.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\sr.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\sr.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ss.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ss.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\st.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\st.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\sv.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\sv.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\sx.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\sx.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\sy.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\sy.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\sz.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\sz.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\tc.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\tc.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\td.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\td.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\tf.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\tf.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\tg.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\tg.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\th.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\th.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\tj.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\tj.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\tk.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\tk.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\tl.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\tl.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\tm.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\tm.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\tn.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\tn.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\to.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\to.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\tr.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\tr.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\tt.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\tt.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\tv.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\tv.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\tw.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\tw.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\tz.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\tz.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ua.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ua.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ug.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ug.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\um.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\um.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\un.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\un.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\us.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\us.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\uy.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\uy.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\uz.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\uz.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\va.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\va.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\vc.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\vc.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ve.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ve.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\vg.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\vg.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\vi.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\vi.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\vn.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\vn.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\vu.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\vu.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\wf.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\wf.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ws.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ws.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\xk.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\xk.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ye.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\ye.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\yt.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\yt.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\za.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\za.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\zm.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\zm.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flag-icon-css\\flags\\4x3\\zw.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flag-icon-css\\flags\\4x3\\zw.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flot\\jquery.flot.categories.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flot\\jquery.flot.categories.js"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flot\\jquery.flot.fillbetween.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flot\\jquery.flot.fillbetween.js"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flot\\jquery.flot.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flot\\jquery.flot.js"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flot\\jquery.flot.pie.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flot\\jquery.flot.pie.js"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flot\\jquery.flot.resize.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flot\\jquery.flot.resize.js"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\flot\\jquery.flot.stack.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flot\\jquery.flot.stack.js"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\font-awesome\\fonts\\fontawesome-webfont3e6e.eot",
+      "PackagePath": "staticwebassets\\assets\\vendors\\font-awesome\\fonts\\fontawesome-webfont3e6e.eot"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\font-awesome\\fonts\\fontawesome-webfont3e6e.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\font-awesome\\fonts\\fontawesome-webfont3e6e.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\font-awesome\\fonts\\fontawesome-webfont3e6e.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendors\\font-awesome\\fonts\\fontawesome-webfont3e6e.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\font-awesome\\fonts\\fontawesome-webfont3e6e.woff",
+      "PackagePath": "staticwebassets\\assets\\vendors\\font-awesome\\fonts\\fontawesome-webfont3e6e.woff"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\font-awesome\\fonts\\fontawesome-webfont3e6e.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendors\\font-awesome\\fonts\\fontawesome-webfont3e6e.woff2"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\font-awesome\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\assets\\vendors\\font-awesome\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\js\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\js\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfontb4a8.eot",
+      "PackagePath": "staticwebassets\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfontb4a8.eot"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfontb4a8.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfontb4a8.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfontb4a8.woff",
+      "PackagePath": "staticwebassets\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfontb4a8.woff"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfontb4a8.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfontb4a8.woff2"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\select2-bootstrap-theme\\select2-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\select2-bootstrap-theme\\select2-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\select2\\select2.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\select2\\select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\select2\\select2.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\select2\\select2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\assets\\vendors\\typeahead.js\\typeahead.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\typeahead.js\\typeahead.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\bgimages\\bg\\7.html",
+      "PackagePath": "staticwebassets\\bgimages\\bg\\7.html"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\css\\color.css",
+      "PackagePath": "staticwebassets\\css\\color.css"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\css\\plugins.css",
+      "PackagePath": "staticwebassets\\css\\plugins.css"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\fonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\fonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\fonts\\fa-brands-400d41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\fonts\\fa-light-300.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-light-300.eot"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\fonts\\fa-light-300.svg",
+      "PackagePath": "staticwebassets\\fonts\\fa-light-300.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\fonts\\fa-light-300.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-light-300.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\fonts\\fa-light-300.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-light-300.woff"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\fonts\\fa-light-300.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-light-300.woff2"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\fonts\\fa-light-300d41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-light-300d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\fonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\fonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\fonts\\fa-regular-400d41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\fonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\fonts\\fa-solid-900d41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\fonts\\lgd41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\lgd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\fonts\\lgd641.eot",
+      "PackagePath": "staticwebassets\\fonts\\lgd641.eot"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\fonts\\lgd641.svg",
+      "PackagePath": "staticwebassets\\fonts\\lgd641.svg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\fonts\\lgd641.ttf",
+      "PackagePath": "staticwebassets\\fonts\\lgd641.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\fonts\\lgd641.woff",
+      "PackagePath": "staticwebassets\\fonts\\lgd641.woff"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\all\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\all\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\all\\13.jpg",
+      "PackagePath": "staticwebassets\\images\\all\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\all\\14.jpg",
+      "PackagePath": "staticwebassets\\images\\all\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\all\\15.jpg",
+      "PackagePath": "staticwebassets\\images\\all\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\all\\16.jpg",
+      "PackagePath": "staticwebassets\\images\\all\\16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\all\\17.jpg",
+      "PackagePath": "staticwebassets\\images\\all\\17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\all\\18.jpg",
+      "PackagePath": "staticwebassets\\images\\all\\18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\all\\19.jpg",
+      "PackagePath": "staticwebassets\\images\\all\\19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\all\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\all\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\all\\20.jpg",
+      "PackagePath": "staticwebassets\\images\\all\\20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\all\\21.jpg",
+      "PackagePath": "staticwebassets\\images\\all\\21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\all\\22.jpg",
+      "PackagePath": "staticwebassets\\images\\all\\22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\all\\24.jpg",
+      "PackagePath": "staticwebassets\\images\\all\\24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\all\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\all\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\all\\31.jpg",
+      "PackagePath": "staticwebassets\\images\\all\\31.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\all\\33.jpg",
+      "PackagePath": "staticwebassets\\images\\all\\33.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\all\\35.jpg",
+      "PackagePath": "staticwebassets\\images\\all\\35.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\all\\36.jpg",
+      "PackagePath": "staticwebassets\\images\\all\\36.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\all\\37.jpg",
+      "PackagePath": "staticwebassets\\images\\all\\37.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\all\\38.jpg",
+      "PackagePath": "staticwebassets\\images\\all\\38.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\all\\39.jpg",
+      "PackagePath": "staticwebassets\\images\\all\\39.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\all\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\all\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\all\\40.jpg",
+      "PackagePath": "staticwebassets\\images\\all\\40.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\all\\41.jpg",
+      "PackagePath": "staticwebassets\\images\\all\\41.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\all\\42.jpg",
+      "PackagePath": "staticwebassets\\images\\all\\42.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\all\\43.jpg",
+      "PackagePath": "staticwebassets\\images\\all\\43.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\all\\44.jpg",
+      "PackagePath": "staticwebassets\\images\\all\\44.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\all\\46.jpg",
+      "PackagePath": "staticwebassets\\images\\all\\46.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\all\\48.jpg",
+      "PackagePath": "staticwebassets\\images\\all\\48.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\all\\49.jpg",
+      "PackagePath": "staticwebassets\\images\\all\\49.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\all\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\all\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\all\\50.jpg",
+      "PackagePath": "staticwebassets\\images\\all\\50.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\all\\52.jpg",
+      "PackagePath": "staticwebassets\\images\\all\\52.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\all\\53.jpg",
+      "PackagePath": "staticwebassets\\images\\all\\53.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\all\\54.jpg",
+      "PackagePath": "staticwebassets\\images\\all\\54.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\all\\55.jpg",
+      "PackagePath": "staticwebassets\\images\\all\\55.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\all\\56.jpg",
+      "PackagePath": "staticwebassets\\images\\all\\56.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\all\\57.jpg",
+      "PackagePath": "staticwebassets\\images\\all\\57.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\all\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\all\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\all\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\all\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\all\\banner.jpg",
+      "PackagePath": "staticwebassets\\images\\all\\banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\all\\thumbs\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\all\\thumbs\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\all\\thumbs\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\all\\thumbs\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\all\\thumbs\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\all\\thumbs\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\all\\thumbs\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\all\\thumbs\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\all\\thumbs\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\all\\thumbs\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\all\\thumbs\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\all\\thumbs\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\all\\thumbs\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\all\\thumbs\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\avatar\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\avatar\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\avatar\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\avatar\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\avatar\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\bg\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\bg\\10.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\bg\\11.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\bg\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\bg\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\bg\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\bg\\8.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\bg\\9.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\city-bg.png",
+      "PackagePath": "staticwebassets\\images\\city-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\images\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\loading2.gif",
+      "PackagePath": "staticwebassets\\images\\loading2.gif"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\logo2.png",
+      "PackagePath": "staticwebassets\\images\\logo2.png"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\shop\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\shop\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\shop\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\shop\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\shop\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\images\\shop\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\img\\video-play.html",
+      "PackagePath": "staticwebassets\\img\\video-play.html"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\img\\vimeo-play.html",
+      "PackagePath": "staticwebassets\\img\\vimeo-play.html"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\img\\youtube-play.html",
+      "PackagePath": "staticwebassets\\img\\youtube-play.html"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DECAGON\\OneDrive\\Documents\\Multiples\\BlogTask\\BlogTask\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlogTask.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlogTask.props",
+      "PackagePath": "build\\BlogTask.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlogTask.props",
+      "PackagePath": "buildMultiTargeting\\BlogTask.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlogTask.props",
+      "PackagePath": "buildTransitive\\BlogTask.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

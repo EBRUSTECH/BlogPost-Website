@@ -1,0 +1,61 @@
+﻿@model BlogTask.Models.ViewModels.RegisterViewModel
+
+@{
+    ViewData["Title"] = "Register";
+}
+
+<!--register form -->
+<div class="row">
+    <div class="col-md-6 mx-auto register-blogTask ">
+        <div asp-validation-summary="All" class="text-danger mb-4"></div>
+        <div class="custom-form">
+            <form method="post" asp-action="Register" asp-controller="Account" class="main-register-form">
+
+                <div>
+                    <label>First Name <span>*</span> </label>
+                    <input asp-for="FirstName" type="text">
+                    <span class="text-danger" asp-validation-for="FirstName"></span>
+
+                </div>
+               <div>
+                    <label>Last Name <span>*</span> </label>
+                    <input asp-for="LastName" type="text">
+                    <span class="text-danger" asp-validation-for="LastName"></span>
+
+               </div>
+              <dv>
+                    <label>Email Address <span>*</span></label>
+                    <input asp-for="Email" type="text">
+                    <span class ="text-danger" asp-validation-for="Email"></span>
+
+              </dv>
+              <div>
+                    <label>Password <span>*</span></label>
+                    <input asp-for="Password" type="password">
+                    <span class="text-danger" asp-validation-for="Password"></span>
+
+              </div>
+             <div>
+
+                    <label>Confirm Password <span>*</span></label>
+                    <input asp-for="ConfirmPassword" type="password">
+                    <span class="text-danger" asp-validation-for="ConfirmPassword"></span>
+
+             </div>
+               
+                <button type="submit" class="log-submit-btn color-bg"><span>Register</span></button>
+
+            </form>
+        </div>
+    </div>
+    <style>
+
+        .register-blogTask 
+        {
+            margin-top: 180px;
+            margin-bottom: 180px;
+        }
+    </style>
+</div>
+
+<!--register form end -->

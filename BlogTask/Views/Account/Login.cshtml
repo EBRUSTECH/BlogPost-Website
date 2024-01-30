@@ -1,0 +1,62 @@
+﻿@model BlogTask.Models.ViewModels.LoginViewModel
+@{
+    ViewData["Title"] = "Login";
+    var returnUrl = ViewBag.ReturnUrl;
+}
+
+<!--register form -->
+<div class="row">
+    <div class="col-md-6 mx-auto login-blogTask">
+
+         <div asp-validation-summary="All" class="text-danger mb-4"></div> 
+
+        <div class="custom-form">
+
+            <form method="post" asp-controller="Account" asp-action="Login" asp-route-returnUrl="@returnUrl">
+
+               @*  <label>Email Address <span>*</span> </label>
+                <input asp-for="Email" type="text">
+               *@
+                <dv>
+                    <label>Email Address <span>*</span></label>
+                    <input asp-for="Email" type="text">
+                    <span class="text-danger" asp-validation-for="Email"></span>
+
+                </dv>
+
+                <div>
+                    <label>Password <span>*</span></label>
+                    <input asp-for="Password" type="password">
+                    <span class="text-danger" asp-validation-for="Password"></span>
+                </div>
+
+              @*   <label>Password <span>*</span> </label>
+                <input asp-for="Password" type="password" >
+               *@
+                <div class="lost_password">
+                    <a asp-action="ForgotPassword" asp-controller="Account">Lost Your Password?</a>
+                </div>
+
+                <div class="clearfix"></div>
+
+                <button type="submit" class="log-submit-btn color-bg"><span>Log In</span></button>
+
+            </form>
+
+            <div class="">
+                Don't have an account?
+                <a asp-controller="Account" asp-action="Register">Register</a>
+            </div>
+        </div>
+    </div>
+    <style>
+
+        .login-blogTask 
+        {
+            margin-top: 180px;
+            margin-bottom: 180px;
+        }
+
+    </style>
+</div>
+<!--register form end -->

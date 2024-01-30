@@ -1,0 +1,53 @@
+﻿@model AddBlogViewModel
+@{
+    ViewData["Title"] = "add-blog-post";
+}
+
+<div class="content-wrapper pb-0">
+    <div class="page-header flex-wrap">
+
+        <h5 class="mb-0">
+            Add Blog Post
+        </h5>
+
+    </div>
+
+    <div class="row">
+
+        <div class="col-md-10 grid-margin stretch-card mx-auto">
+            <div class="card">
+                <div class="card-body">
+
+                    <form method="post" asp-action="AddBlog" asp-controller="Dashboard" class="forms-sample">
+
+                        <div class="form-group">
+                            <label>Title</label>
+                            <input type="text" asp-for="Title" class="form-control"  placeholder="Title" required />
+                            <span class="text-danger" asp-validation-for="Title"></span>
+                        </div>                      
+
+                       <div class="mb-3 form-group">
+                            <label class="form-label">Select a category</label>
+                            <select class="form-control"
+                                    asp-items="@Model.Categories"
+                                    asp-for="SelectedCategories">
+                            </select>                          
+                        </div>  
+                             
+                        <div class="form-group">
+                            <label for="text" class="control-label">Blog text</label>
+                            <textarea rows="14" cols="20" asp-for="Text" id="text" class="form-control"> </textarea>
+                            <span class="text-danger" asp-validation-for="Text"></span>
+                        </div>
+
+                        <button type="submit" class="btn btn-primary"> Submit </button>
+
+                    </form>
+
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+</div>
